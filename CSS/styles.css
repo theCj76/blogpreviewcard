@@ -1,7 +1,7 @@
 body {
-  min-height: 100vh;
-  display: grid;
-  place-items: center;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
     background-color: hsl(47, 88%, 63%);
     font-family: 'Figtree', sans-serif;
 
